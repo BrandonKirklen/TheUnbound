@@ -3,6 +3,7 @@ site_description: D&D campaign notes for The Unbound
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.sections
     - navigation.top
