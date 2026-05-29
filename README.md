@@ -10,9 +10,14 @@ The party — Tomis (centaur cleric of the Matron of Ravens), Freya (half-orc ze
 docs/
   Reference Notes/   - Character descriptions, world notes, set pieces, one-shot material
   Session Notes/     - One file per session (Session 0 through Session 118)
+    TEMPLATE.md      - Copy this when starting a new session for consistent structure
 mkdocs.yml           - MkDocs site configuration (Material theme)
 .readthedocs.yaml    - Read the Docs build configuration
 ```
+
+## Adding a new session
+
+Copy `docs/Session Notes/TEMPLATE.md` to `docs/Session Notes/Session N.md`, fill it in, then add a matching line to the `Sessions:` block in `mkdocs.yml`.
 
 ## Browsing
 

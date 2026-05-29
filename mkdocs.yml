@@ -28,6 +28,7 @@ theme:
 exclude_docs: |
   *.pdf
   requirements.txt
+  Session Notes/TEMPLATE.md
 
 markdown_extensions:
   - admonition
