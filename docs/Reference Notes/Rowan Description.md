@@ -1,6 +1,6 @@
-# Rowan Description
+# Rowan Karst Description
 
-A friend of the Unbound and a steadfast son of Whitestone, Rowan stands among the party in the hardest fights and speaks for his city when the dead are remembered.
+A member of the Unbound and a steadfast son of Whitestone, Rowan Karst stands among the party in the hardest fights and speaks for his city when the dead are remembered.
 
 ![Rowan with Juniper overlooking the coast](Rowan%20and%20Juniper.jpeg)
 

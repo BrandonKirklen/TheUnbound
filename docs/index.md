@@ -10,10 +10,10 @@ Campaign notes for **The Unbound**, an ongoing Dungeons & Dragons campaign set i
 - [**Freya**](Reference%20Notes/Freya%20Description.md) — Half-orc zealot barbarian, the Cursed Zealot of the Black Crown
 - [**Grimbold**](Reference%20Notes/Grimbold%20Description.md) — Half-gnome / half-goblin spellcaster
 - [**Uriel**](Reference%20Notes/Uriel%20Description.md) — Scourge Aasimar Horizon Walker ranger of the Earth Ashari
+- [**Rowan Karst**](Reference%20Notes/Rowan%20Description.md) — Steadfast son of Whitestone
 
-## Allies & Mounts
+## Mounts
 
-- [**Rowan**](Reference%20Notes/Rowan%20Description.md) — Friend of the Unbound, steadfast son of Whitestone
 - [**Juniper**](Reference%20Notes/Juniper%20Description.md) — Tomis's peryton mount
 
 ## Other Reading

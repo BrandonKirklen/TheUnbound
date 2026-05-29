@@ -2,7 +2,7 @@
 
 Campaign notes for **The Unbound**, an ongoing Dungeons & Dragons campaign set in the world of Exandria.
 
-The party — Tomis (centaur cleric of the Matron of Ravens), Freya (half-orc zealot barbarian, the Cursed Zealot of the Black Crown), Grimbold (half-gnome / half-goblin spellcaster), and Uriel (Scourge Aasimar horizon-walker ranger of the Earth Ashari) — pursue the relics and threads of an age of warring gods across Whitestone, the Parchwood Timberlands, the Alabaster Sierras, and beyond.
+The party — Tomis (centaur cleric of the Matron of Ravens), Freya (half-orc zealot barbarian, the Cursed Zealot of the Black Crown), Grimbold (half-gnome / half-goblin spellcaster), Uriel (Scourge Aasimar horizon-walker ranger of the Earth Ashari), and Rowan Karst (steadfast son of Whitestone) — pursue the relics and threads of an age of warring gods across Whitestone, the Parchwood Timberlands, the Alabaster Sierras, and beyond.
 
 ## Layout
 
