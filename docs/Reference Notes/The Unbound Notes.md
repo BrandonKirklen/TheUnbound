@@ -1,5 +1,7 @@
 # The Unbound D&D Notes
 
+![Map of the known realms of Exandria](Exandria%20World%20Map.jpeg)
+
 ## Character Notes - Tomis
 
 Tribe Structure

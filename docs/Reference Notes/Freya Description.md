@@ -1,5 +1,7 @@
 # Freya Description
 
+![Freya swinging the hellfire-lit Cleaver of the Black Crown at an Aarakocra in the Alabaster Sierras](Freya%20Killing%20Aarakocra.jpeg)
+
 **The Cursed Zealot of the Black Crown**
 
 **Race:** Half-Orc

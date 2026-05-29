@@ -14,11 +14,19 @@
 
 Conjured Temple of the Matron of Ravens, Whitestone
 
+![The temple of the night rising from the moonlit grounds outside Whitestone](Whitestone%20Funeral%20-%20Temple%20Exterior.png)
+
+![The Sun Tree in Whitestone, the temple of the dawn nestled at its roots](Sun%20Tree%20in%20Whitestone.jpeg)
+
 Setting: On the outskirts of the city nestled into the Parchwood timbers, with the illustrious Sun Tree peaking over the treeline in the distance, near the temple of the dawn, Whitestone’s cobbles are rimmed with chalk sigils and raven feathers. At Tomis’s call, a temple of the night unfolds from hush and moonlight, a transient sanctum layered over the square contrasting with the bright, warm and inviting temple of the dawn nearby. Pillars of smoked glass rise, rooted to the ground with trunk-like pillars to the ground, veined with silver like frost, and a vaulted nave joins the night. Shadows gather thick at the eaves, moving as if they breathe. It seems more like a stony extension of the forest, Tomis’s homeland connected and covered by the same canopy that’s extended nearby.
+
+![The obsidian altar suspended above the blood-dark pool, ringed by amethyst lanterns](Whitestone%20Funeral%20-%20Empty%20Altar.png)
 
 The temple is shaped in an amphitheater, sloping down to a deep center pit in the middle of a forest of stone. In the center stands a great obsidian altar, suspended on arched bridges above a wide pool that reflects dark blood. Amethyst lanterns cast violet halos that skim the surface. The castle bells are silent. It feels as though we’re all waiting for someone to exhale and set the shadows pulsing.
 
 # Ceremony
+
+![The mourners gathered around the altar as the ceremony begins](Whitestone%20Funeral%20-%20Ceremony.png)
 
 ## Opening Invocation
 
@@ -107,9 +115,9 @@ At the last rescue, life saving.
 
 Those rules became our creed.”
 
-I’ve asked my friend Urial to read these rules today for us.
+I’ve asked my friend Uriel to read these rules today for us.
 
-## Rayleen’s Rules (Urial read this)
+## Rayleen’s Rules (Uriel read this)
 
 * You are never more than thirty seconds from battle readiness.  
 * Do not piss each other off. If I have to deal with it, I take half of both your pay for my trouble.  
@@ -133,14 +141,14 @@ Where Pyrrhus gave the *Deliverance* its mind, Cassidy gave it its heart, every 
 Their work made her more than a vessel.  
 She became a living testament to what we can build together”
 
-## Whitestone (Rohan)
+## Whitestone (Rowan)
 
 Speaking of building together, Rayleen and us wouldn’t have even met without Whitestone’s foresight. Fathers and mothers, sons and daughters, farmers, tinkerers, bright minds looking to a better future,   
 took up the call to be part of something bigger, a cord that couldn’t be broken. Your people endured loss without turning away, even when the sky itself seemed to fall, held strong. 
 
 I’ve asked my friend Rowan to say a few more words about this strong thread. 
 
-## Ashari (Urial)
+## Ashari (Uriel)
 
 A force of nature in this fight were the Ashari. I’ve had the pleasure to walk with one of their most valiant, Earth Warden of the Ashari over the last 133 days, I’ve watched him grow and and refused to let him leave. 
 

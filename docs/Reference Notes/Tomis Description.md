@@ -1,4 +1,8 @@
-# Tomis Description 
+# Tomis Description
+
+![Tomis the centaur cleric in moonlit ruins, bearing his consecrated mace and the raven-emblazoned Spellguard tower shield](Tomis%20-%20Centaur.jpg)
+
+![Portrait of Tomis with the raven shield of the Matron of Ravens](Tomis%20-%20Portrait.jpg)
 
 **Race:** Centaur
 

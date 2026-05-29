@@ -1,5 +1,7 @@
 # Grimbold Description
 
+![Portrait of Grimbold in his floppy gnome-wizard cap](Grimbold.jpeg)
+
 **Race:** Half-gnome, half-goblin
 
 **Age:** Mid 30s

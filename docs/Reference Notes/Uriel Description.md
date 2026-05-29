@@ -1,5 +1,7 @@
 # Uriel Description
 
+![Uriel after his resurrection, his Ashari tattoos now spread into earthen cracks across his skin](Uriel%20-%20Post%20Resurrection.png)
+
 **Earthwarden of the Ashari**
 
 **Race:** Scourge Aasimar
@@ -25,3 +27,11 @@ Once seeming youthful and boy-ish, Uriel now has a set jaw of resolve. Green eye
 - **Armor:** Uriel wears fitted, well-worn, sleeveless leather armor with notable wood detailing and leaf-y adornments on the shoulders. He wears a short thick green cape off one shoulder used primarily for camouflage or as a distraction in combat.
 
 - **Weapons:** He dual wields an ornate sawed-off style blunderbuss called a Bluusterskuufen with an equally intricate magical shortsword. The magical detailing of the weapons matches the earthy tones of his Ashari tattoos.
+
+**Elemental Affinities:**
+
+As a Horizon Walker, Uriel's Ashari tattoos shift color with the plane he is attuned to.
+
+| Earth | Fire | Water | Air |
+| :---: | :---: | :---: | :---: |
+| ![Uriel attuned to earth](Uriel%20-%20Earth.jpeg) | ![Uriel attuned to fire](Uriel%20-%20Fire.jpeg) | ![Uriel attuned to water](Uriel%20-%20Blue.jpeg) | ![Uriel attuned to air](Uriel%20-%20White.jpeg) |
