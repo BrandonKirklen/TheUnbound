@@ -32,6 +32,9 @@ Once seeming youthful and boy-ish, Uriel now has a set jaw of resolve. Green eye
 
 As a Horizon Walker, Uriel's Ashari tattoos shift color with the plane he is attuned to.
 
-| Earth | Fire | Water | Air |
-| :---: | :---: | :---: | :---: |
-| ![Uriel attuned to earth](Uriel%20-%20Earth.jpeg) | ![Uriel attuned to fire](Uriel%20-%20Fire.jpeg) | ![Uriel attuned to water](Uriel%20-%20Blue.jpeg) | ![Uriel attuned to air](Uriel%20-%20White.jpeg) |
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5em; max-width: 720px;">
+<figure style="margin: 0;"><img src="Uriel%20-%20Earth.jpeg" alt="Uriel attuned to earth" style="width: 100%; height: auto;"><figcaption style="text-align: center;"><strong>Earth</strong></figcaption></figure>
+<figure style="margin: 0;"><img src="Uriel%20-%20Fire.jpeg" alt="Uriel attuned to fire" style="width: 100%; height: auto;"><figcaption style="text-align: center;"><strong>Fire</strong></figcaption></figure>
+<figure style="margin: 0;"><img src="Uriel%20-%20Blue.jpeg" alt="Uriel attuned to water" style="width: 100%; height: auto;"><figcaption style="text-align: center;"><strong>Water</strong></figcaption></figure>
+<figure style="margin: 0;"><img src="Uriel%20-%20White.jpeg" alt="Uriel attuned to air" style="width: 100%; height: auto;"><figcaption style="text-align: center;"><strong>Air</strong></figcaption></figure>
+</div>

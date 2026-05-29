@@ -1,6 +1,6 @@
 # The Unbound D&D Notes
 
-![Map of the known realms of Exandria](Exandria%20World%20Map.jpeg)
+<img src="Exandria%20World%20Map.jpeg" alt="Map of the known realms of Exandria" width="700">
 
 ## Character Notes - Tomis
 
