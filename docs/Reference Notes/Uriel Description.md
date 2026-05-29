@@ -1,6 +1,6 @@
 # Uriel Description
 
-<img src="Uriel%20-%20Post%20Resurrection.png" alt="Uriel after his resurrection, his Ashari tattoos now spread into earthen cracks across his skin" width="400">
+<img src="Uriel%20-%20Post%20Resurrection.jpg" alt="Uriel after his resurrection, his Ashari tattoos now spread into earthen cracks across his skin" width="400">
 
 **Earthwarden of the Ashari**
 

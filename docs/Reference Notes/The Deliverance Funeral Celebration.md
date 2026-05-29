@@ -14,19 +14,19 @@
 
 Conjured Temple of the Matron of Ravens, Whitestone
 
-![The temple of the night rising from the moonlit grounds outside Whitestone](Whitestone%20Funeral%20-%20Temple%20Exterior.png)
+![The temple of the night rising from the moonlit grounds outside Whitestone](Whitestone%20Funeral%20-%20Temple%20Exterior.jpg)
 
 ![The Sun Tree in Whitestone, the temple of the dawn nestled at its roots](Sun%20Tree%20in%20Whitestone.jpeg)
 
 Setting: On the outskirts of the city nestled into the Parchwood timbers, with the illustrious Sun Tree peaking over the treeline in the distance, near the temple of the dawn, Whitestone’s cobbles are rimmed with chalk sigils and raven feathers. At Tomis’s call, a temple of the night unfolds from hush and moonlight, a transient sanctum layered over the square contrasting with the bright, warm and inviting temple of the dawn nearby. Pillars of smoked glass rise, rooted to the ground with trunk-like pillars to the ground, veined with silver like frost, and a vaulted nave joins the night. Shadows gather thick at the eaves, moving as if they breathe. It seems more like a stony extension of the forest, Tomis’s homeland connected and covered by the same canopy that’s extended nearby.
 
-![The obsidian altar suspended above the blood-dark pool, ringed by amethyst lanterns](Whitestone%20Funeral%20-%20Empty%20Altar.png)
+![The obsidian altar suspended above the blood-dark pool, ringed by amethyst lanterns](Whitestone%20Funeral%20-%20Empty%20Altar.jpg)
 
 The temple is shaped in an amphitheater, sloping down to a deep center pit in the middle of a forest of stone. In the center stands a great obsidian altar, suspended on arched bridges above a wide pool that reflects dark blood. Amethyst lanterns cast violet halos that skim the surface. The castle bells are silent. It feels as though we’re all waiting for someone to exhale and set the shadows pulsing.
 
 # Ceremony
 
-![The mourners gathered around the altar as the ceremony begins](Whitestone%20Funeral%20-%20Ceremony.png)
+![The mourners gathered around the altar as the ceremony begins](Whitestone%20Funeral%20-%20Ceremony.jpg)
 
 ## Opening Invocation
 

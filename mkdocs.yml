@@ -29,6 +29,7 @@ exclude_docs: |
   *.pdf
   requirements.txt
   Session Notes/TEMPLATE.md
+  Reference Notes/originals/
 
 markdown_extensions:
   - admonition
