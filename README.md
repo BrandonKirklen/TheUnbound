@@ -17,7 +17,12 @@ mkdocs.yml           - MkDocs site configuration (Material theme)
 
 ## Adding a new session
 
-Copy `docs/Session Notes/TEMPLATE.md` to `docs/Session Notes/Session N.md`, fill it in, then add a matching line to the `Sessions:` block in `mkdocs.yml`.
+There are two paths:
+
+- **From a transcript** — open this project in Claude Code and invoke the `dnd-unbound-session-notes` skill (lives at `.claude/skills/dnd-unbound-session-notes/SKILL.md`). It extracts a transcript into notes that match the established voice, structure, and proper-noun conventions.
+- **By hand** — copy `docs/Session Notes/TEMPLATE.md` to `docs/Session Notes/Session N.md` and fill it in.
+
+Either way, add a matching line to the `Sessions:` block in `mkdocs.yml`. The sidebar is ordered latest-first, so new entries go at the **top** of that block (immediately under `- Sessions:`).
 
 ## Browsing
 
