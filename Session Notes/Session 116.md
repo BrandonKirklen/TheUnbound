@@ -1,5 +1,4 @@
-
-## Session 116
+# Session 116
 
 **Date:** 13th of Fessuran
 **Days Remaining Until Freya (7th of Quen'pillar):** 23
@@ -68,7 +67,7 @@ Marching order for the climb: **Uriel** in front, **Freya on Juniper** second, *
 
 ---
 
-## The Sentry
+### The Sentry
 
 Uriel crested a half-turn of the staircase — and met the eyes of an **Aarakocra sentry** sheltering from the rain under the next shelf. The sentry shrieked. The cry carried into the storm but the gale dampened how far. Initiative.
 
@@ -82,7 +81,7 @@ No visible response from the observatory. Combat dropped. The party reformed and
 
 ---
 
-## The Storm of the Castle
+### The Storm of the Castle
 
 Cresting the penultimate stair, Freya saw what was waiting. **Five identical shadowy Nagpa figures** on the ledge above. Twenty feet to their left, an **Aarakocra military commander** — well-armored, the bearing of an officer — flanked by archers, with several more scattered around the observatory grounds. Tomis with a 20 passive insight caught what the others missed: under the strain, the commander hid it well, but the archers' faces showed **significant worry**, and every one of them was **grounded**.
 
@@ -189,3 +188,5 @@ Uriel: standing, in the observatory, Haste running, looking for the real Nagpa a
 Grimbold: standing, maintaining the Magic Missile barrage, holding Primrose drowning in the basin below.
 
 The Aarakocra commander, three archers, the Pit Fiend, Vespin Chloras, the Dao, and the white dragon all still active.
+
+---

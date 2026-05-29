@@ -1,4 +1,4 @@
-## Session 115
+# Session 115
 
 **Date:** 13th of Fessuran 
 **Days Remaining Until Freya (7th of Quen'pillar):** 23
@@ -109,7 +109,7 @@ Both Rowan and Uriel spotted a recurring **reflective glimmer near the summit of
 At around 4 hours out, Uriel rolled a 32 Perception and spotted **large numbers of dark figures moving between multiple mountain peaks** in the cluster — not a small patrol, but something resembling a full settlement or civilization spread across several summits.
 
 **The Plan Going Forward**
-- **Wait until ~4 hours from the mountain tip**, then Thomas casts **Control Weather** to generate ground fog for concealment along the river and the approach on foot.
+- **Wait until ~4 hours from the mountain tip**, then Tomis casts **Control Weather** to generate ground fog for concealment along the river and the approach on foot.
 - Keep as few people on deck as needed; let sleeping party members finish their long rests.
 - The main concern is **exposure on the mountainside itself** — the river and forest canopy offer cover, but the vertical climb to the Aarakocra settlements will be dangerously open.
 - If a Nagpa is encountered: engage and eliminate if it's one, retreat if it's two or more. Freya and Grimbold expressed confidence; Rowan urged caution.
@@ -118,12 +118,14 @@ At around 4 hours out, Uriel rolled a 32 Perception and spotted **large numbers 
 
 Disembarked on the eastern shore of the Parchwood Timberlands at the foot of the Alabaster Sierras
 Uriel cast Pass Without Trace on the party before disembarking (+2 to all stealth checks, 1 hour, no range limit after cast)
-Thomas cast Control Weather — "Let the mountain wear its shroud. What moves beneath is of no concern to these sky creatures."
+Tomis cast Control Weather — "Let the mountain wear its shroud. What moves beneath is of no concern to these sky creatures."
 
 Incrementing precipitation to ground fog over two 1d4 × 10 minute intervals (rolled well — fast transition)
 Also incrementing wind to moderate to harry Aarakocra flight
 Full 5-mile radius, 8-hour duration
 
 Grimbold summoned a Phantom Steed (warg) for the ascent; Freya rode it given her halved ground speed
-Rowan and Grimbold mounted Juniper; Thomas hovering; party otherwise on foot
+Rowan and Grimbold mounted Juniper; Tomis hovering; party otherwise on foot
 Session ended at the start of a skill challenge: how quickly and how unnoticed can the party scale the mountain within the Control Weather window
+
+---
