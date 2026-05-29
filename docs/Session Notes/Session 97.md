@@ -1,6 +1,7 @@
 # Session 97
 
 **Date:** 28th of Sydenstar  
+
 **Days Remaining Until Solstice (5th of Fessuran):** 8
 
 ---

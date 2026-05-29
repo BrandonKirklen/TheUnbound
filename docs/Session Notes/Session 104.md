@@ -1,6 +1,7 @@
 # Session 104 
 
 **Date:** 6th of Fessuran
+
 **Days Remaining Until Solstice (6th of Fessuran):** 0
 
 --- 

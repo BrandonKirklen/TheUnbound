@@ -1,6 +1,7 @@
 # Session 99
 
 **Date:** 30th of Sydenstar  
+
 **Days Remaining Until Solstice (5th of Fessuran):** 6
 
 ---

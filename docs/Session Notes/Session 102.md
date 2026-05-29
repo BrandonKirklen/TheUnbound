@@ -1,6 +1,7 @@
 # Session 102
 
 **Date:** 2nd of Fessuran
+
 **Days Remaining Until Solstice (6th of Fessuran):** 4
 
 --- 

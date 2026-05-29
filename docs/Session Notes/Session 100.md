@@ -1,6 +1,7 @@
 # Session 100
 
 **Date:** 30st of Sydenstar
+
 **Days Remaining Until Solstice (6th of Fessuran):** 6
 
 ---

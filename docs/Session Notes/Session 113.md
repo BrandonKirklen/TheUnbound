@@ -1,6 +1,7 @@
 # Session 113
 
 **Date:** 12th of Fessuran 
+
 **Days Remaining Until Freya (7th of Quen'pillar):** 24
 
 ---

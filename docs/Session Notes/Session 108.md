@@ -1,6 +1,7 @@
 # Session 108 
 
 **Date:** 8th of Fessuran 
+
 **Days Remaining Until Freya (7th of Quen'pillar):** 28
 
 ---

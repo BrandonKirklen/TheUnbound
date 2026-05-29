@@ -1,7 +1,9 @@
 # Session 118
 
 **Date:** 13th of Fessuran
+
 **Days Remaining Until Freya (7th of Quen'pillar):** 23
+
 **Days Remaining Until the Flying Cities Reach Vasselheim:** 2–3
 
 ---

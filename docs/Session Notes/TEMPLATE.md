@@ -19,8 +19,10 @@ H2 (##) is intentionally skipped — keep section beats at H3, subsections at H4
 # Session N
 
 **Date:** [In-game date, e.g. 13th of Fessuran]
+
 **Days Remaining Until [Event]:** [number]
-<!-- Add additional countdown lines (deadlines, deliveries, threats) as relevant. -->
+
+<!-- Add additional countdown lines (deadlines, deliveries, threats) as relevant. Keep one blank line between each so they render on separate lines. -->
 
 ---
 

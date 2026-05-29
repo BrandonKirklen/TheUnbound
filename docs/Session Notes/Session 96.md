@@ -1,6 +1,7 @@
 # Session 96
 
 **Date:** 27th of Sydenstar  
+
 **Days Remaining Until Solstice (5th of Fessuran):** 9
 
 ---

@@ -1,6 +1,7 @@
 # Session 101
 
 **Date:** 1st of Fessuran
+
 **Days Remaining Until Solstice (6th of Fessuran):** 5
 
 --- 

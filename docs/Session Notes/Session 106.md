@@ -1,6 +1,7 @@
 # Session 106
 
 **Date:** 6th of Fessuran 
+
 **Days Remaining Until Freya (7th of Quen'pillar):** 30
 
 ---

@@ -1,6 +1,7 @@
 # Session 95 – The Unbound
 
 **Date:** 26/27th of Sydenstar  
+
 **Days Remaining Until Solstice (5th of Fessuran):** 10
 
 ---
