@@ -14,7 +14,7 @@ Campaign notes for **The Unbound**, an ongoing Dungeons & Dragons campaign set i
 
 ## Mounts
 
-- [**Juniper**](Reference%20Notes/Juniper%20Description.md) — Tomis's peryton mount
+- [**Juniper**](Reference%20Notes/Juniper%20Description.md) — Rowan's peryton mount
 
 ## Other Reading
 

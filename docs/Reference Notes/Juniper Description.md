@@ -1,6 +1,6 @@
 # Juniper Description
 
-Juniper is Tomis's mount — a peryton, winged and antlered, bearing the party through the Parchwood Timberlands and into the Alabaster Sierras when ground travel will not serve.
+Juniper is Rowan Karst's mount — a peryton, winged and antlered, bearing the party through the Parchwood Timberlands and into the Alabaster Sierras when ground travel will not serve.
 
 ![Juniper, a peryton with stag's antlers and broad raptor wings](Juniper.png)
 
