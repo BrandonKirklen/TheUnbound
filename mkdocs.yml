@@ -1,0 +1,159 @@
+site_name: The Unbound Campaign Notes
+site_description: D&D campaign notes for The Unbound
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+exclude_docs: |
+  *.pdf
+  requirements.txt
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+nav:
+  - Home: Reference Notes/The Unbound Notes.md
+  - Reference:
+    - Tomis: Reference Notes/Tomis Description.md
+    - Freya: Reference Notes/Freya Description.md
+    - Grimbold: Reference Notes/Grimbold Description.md
+    - Uriel: Reference Notes/Uriel Description.md
+    - The Deliverance Funeral Celebration: Reference Notes/The Deliverance Funeral Celebration.md
+    - Turst Fields One-Shot: Reference Notes/Turst Fields 1shot Notes.md
+  - Sessions:
+    - Session 0: Session Notes/Session 0.md
+    - Session 1: Session Notes/Session 1.md
+    - Session 2: Session Notes/Session 2.md
+    - Session 3: Session Notes/Session 3.md
+    - Session 4: Session Notes/Session 4.md
+    - Session 5: Session Notes/Session 5.md
+    - Session 6: Session Notes/Session 6.md
+    - Session 7: Session Notes/Session 7.md
+    - Session 8: Session Notes/Session 8.md
+    - Session 9: Session Notes/Session 9.md
+    - Session 10: Session Notes/Session 10.md
+    - Session 11: Session Notes/Session 11.md
+    - Session 12: Session Notes/Session 12.md
+    - Session 13: Session Notes/Session 13.md
+    - Session 14: Session Notes/Session 14.md
+    - Session 15: Session Notes/Session 15.md
+    - Session 16: Session Notes/Session 16.md
+    - Session 17: Session Notes/Session 17.md
+    - Session 18: Session Notes/Session 18.md
+    - Session 19: Session Notes/Session 19.md
+    - Session 20: Session Notes/Session 20.md
+    - Session 21: Session Notes/Session 21.md
+    - Session 22: Session Notes/Session 22.md
+    - Session 23: Session Notes/Session 23.md
+    - Session 24: Session Notes/Session 24.md
+    - Session 25: Session Notes/Session 25.md
+    - Session 26: Session Notes/Session 26.md
+    - Session 27: Session Notes/Session 27.md
+    - Session 31: Session Notes/Session 31.md
+    - Session 33: Session Notes/Session 33.md
+    - Session 34: Session Notes/Session 34.md
+    - Session 35: Session Notes/Session 35.md
+    - Session 36: Session Notes/Session 36.md
+    - Session 37: Session Notes/Session 37.md
+    - Session 38: Session Notes/Session 38.md
+    - Session 39: Session Notes/Session 39.md
+    - Session 40: Session Notes/Session 40.md
+    - Session 41: Session Notes/Session 41.md
+    - Session 46: Session Notes/Session 46.md
+    - Session 47: Session Notes/Session 47.md
+    - Session 48: Session Notes/Session 48.md
+    - Session 49: Session Notes/Session 49.md
+    - Session 50: Session Notes/Session 50.md
+    - Session 51: Session Notes/Session 51.md
+    - Session 52: Session Notes/Session 52.md
+    - Session 53: Session Notes/Session 53.md
+    - Session 54: Session Notes/Session 54.md
+    - Session 55: Session Notes/Session 55.md
+    - Session 56: Session Notes/Session 56.md
+    - Session 57: Session Notes/Session 57.md
+    - Session 58: Session Notes/Session 58.md
+    - Session 59: Session Notes/Session 59.md
+    - Session 60: Session Notes/Session 60.md
+    - Session 61: Session Notes/Session 61.md
+    - Session 62: Session Notes/Session 62.md
+    - Session 63: Session Notes/Session 63.md
+    - Session 64: Session Notes/Session 64.md
+    - Session 65: Session Notes/Session 65.md
+    - Session 66: Session Notes/Session 66.md
+    - Session 67: Session Notes/Session 67.md
+    - Session 68: Session Notes/Session 68.md
+    - Session 69: Session Notes/Session 69.md
+    - Session 70: Session Notes/Session 70.md
+    - Session 71: Session Notes/Session 71.md
+    - Session 72: Session Notes/Session 72.md
+    - Session 73: Session Notes/Session 73.md
+    - Session 74: Session Notes/Session 74.md
+    - Session 75: Session Notes/Session 75.md
+    - Session 76: Session Notes/Session 76.md
+    - Session 77: Session Notes/Session 77.md
+    - Session 78: Session Notes/Session 78.md
+    - Session 79: Session Notes/Session 79.md
+    - Session 80: Session Notes/Session 80.md
+    - Session 81: Session Notes/Session 81.md
+    - Session 82: Session Notes/Session 82.md
+    - Session 83: Session Notes/Session 83.md
+    - Session 84: Session Notes/Session 84.md
+    - Session 85: Session Notes/Session 85.md
+    - Session 86: Session Notes/Session 86.md
+    - Session 87: Session Notes/Session 87.md
+    - Session 88: Session Notes/Session 88.md
+    - Session 89: Session Notes/Session 89.md
+    - Session 90: Session Notes/Session 90.md
+    - Session 91: Session Notes/Session 91.md
+    - Session 92: Session Notes/Session 92.md
+    - Session 93: Session Notes/Session 93.md
+    - Session 94: Session Notes/Session 94.md
+    - Session 95: Session Notes/Session 95.md
+    - Session 96: Session Notes/Session 96.md
+    - Session 97: Session Notes/Session 97.md
+    - Session 98: Session Notes/Session 98.md
+    - Session 99: Session Notes/Session 99.md
+    - Session 100: Session Notes/Session 100.md
+    - Session 101: Session Notes/Session 101.md
+    - Session 102: Session Notes/Session 102.md
+    - Session 103: Session Notes/Session 103.md
+    - Session 104: Session Notes/Session 104.md
+    - Session 105: Session Notes/Session 105.md
+    - Session 106: Session Notes/Session 106.md
+    - Session 107: Session Notes/Session 107.md
+    - Session 108: Session Notes/Session 108.md
+    - Session 109: Session Notes/Session 109.md
+    - Session 110: Session Notes/Session 110.md
+    - Session 111: Session Notes/Session 111.md
+    - Session 112: Session Notes/Session 112.md
+    - Session 113: Session Notes/Session 113.md
+    - Session 114: Session Notes/Session 114.md
+    - Session 115: Session Notes/Session 115.md
+    - Session 116: Session Notes/Session 116.md
+    - Session 117: Session Notes/Session 117.md
+    - Session 118: Session Notes/Session 118.md
