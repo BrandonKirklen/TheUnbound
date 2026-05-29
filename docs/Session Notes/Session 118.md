@@ -2,38 +2,7 @@
 
 **Date:** 13th of Fessuran
 **Days Remaining Until Freya (7th of Quen'pillar):** 23
-
----
-
-### Recap 
-
-
-
----
-
-### Session Notes 
-
-Arakokra Captain
-- great axe
-- plate mail 
-
-Freya
-- axe 
-- amulet
-- cloak
-
-
-
-### Bag of Holding 
-
-15000 lbs 
-250 cubic feet 
-
-# Session 118
-
-**Date:** ~19th of Fessuran (evening through the following morning)
 **Days Remaining Until the Flying Cities Reach Vasselheim:** 2–3
-**Days Remaining Until Freya (7th of Quen'pillar):** ~17
 
 ---
 
@@ -232,6 +201,11 @@ The two discussed the morality of their enemies and their own work:
 - **Aarakocra captain's plate mail** — well-crafted, blood-soaked; magical status unconfirmed.
 - **Aarakocra captain's greataxe** — and **his sword** ("hurt a lot").
 - **Freya's gear** — axe (the Asmodeus-tied weapon that speaks), amulet, a book.
+
+#### Bag of Holding 
+
+15000 lbs 
+250 cubic feet 
 
 ---
 
