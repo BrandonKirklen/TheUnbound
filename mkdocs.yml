@@ -38,8 +38,9 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Home: Reference Notes/The Unbound Notes.md
+  - Home: index.md
   - Reference:
+    - World & Campaign Notes: Reference Notes/The Unbound Notes.md
     - Tomis: Reference Notes/Tomis Description.md
     - Freya: Reference Notes/Freya Description.md
     - Grimbold: Reference Notes/Grimbold Description.md
