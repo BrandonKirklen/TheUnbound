@@ -1,9 +1,8 @@
 # Tomis Description
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1em; max-width: 720px;">
-<img src="Tomis%20-%20Centaur.jpg" alt="Tomis the centaur cleric in moonlit ruins, bearing his consecrated mace and the raven-emblazoned Spellguard tower shield" style="width: 100%; height: auto;">
-<img src="Tomis%20-%20Portrait.jpg" alt="Portrait of Tomis with the raven shield of the Matron of Ravens" style="width: 100%; height: auto;">
-</div>
+|     |     |
+| :---: | :---: |
+| ![Tomis the centaur cleric in moonlit ruins, bearing his consecrated mace and the raven-emblazoned Spellguard tower shield](Tomis%20-%20Centaur.jpg){ width="340" } | ![Portrait of Tomis with the raven shield of the Matron of Ravens](Tomis%20-%20Portrait.jpg){ width="340" } |
 
 **Race:** Centaur
 
