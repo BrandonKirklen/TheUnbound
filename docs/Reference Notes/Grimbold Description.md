@@ -1,6 +1,6 @@
 # Grimbold Description
 
-![Portrait of Grimbold in his floppy gnome-wizard cap](Grimbold.jpeg)
+<img src="Grimbold.jpeg" alt="Portrait of Grimbold in his floppy gnome-wizard cap" width="400">
 
 **Race:** Half-gnome, half-goblin
 

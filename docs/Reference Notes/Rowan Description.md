@@ -6,18 +6,10 @@ A member of the Unbound and a steadfast son of Whitestone, Rowan Karst stands am
 
 ## Seasonal Portraits
 
-**Spring**
+| Spring | Summer |
+| :---: | :---: |
+| ![Rowan in spring](Rowan%20-%20Spring.jpg) | ![Rowan in summer](Rowan%20-%20Summer.jpg) |
 
-![Rowan in spring](Rowan%20-%20Spring.jpg)
-
-**Summer**
-
-![Rowan in summer](Rowan%20-%20Summer.jpg)
-
-**Fall**
-
-![Rowan in fall](Rowan%20-%20Fall.jpg)
-
-**Winter**
-
-![Rowan in winter](Rowan%20-%20Winter.jpeg)
+| Fall | Winter |
+| :---: | :---: |
+| ![Rowan in fall](Rowan%20-%20Fall.jpg) | ![Rowan in winter](Rowan%20-%20Winter.jpeg) |
