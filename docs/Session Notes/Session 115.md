@@ -116,6 +116,8 @@ At around 4 hours out, Uriel rolled a 32 Perception and spotted **large numbers 
 
 **The Ascent Begins**
 
+![The party scaling the storm-lashed Alabaster Sierras toward the observatory](../Reference%20Notes/Party%20Climbing%20Stairs.jpeg)
+
 Disembarked on the eastern shore of the Parchwood Timberlands at the foot of the Alabaster Sierras
 Uriel cast Pass Without Trace on the party before disembarking (+2 to all stealth checks, 1 hour, no range limit after cast)
 Tomis cast Control Weather — "Let the mountain wear its shroud. What moves beneath is of no concern to these sky creatures."
