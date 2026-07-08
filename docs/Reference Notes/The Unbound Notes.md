@@ -77,20 +77,21 @@ Set of Thieves Tools
 4. Stick carved with claw of the Harpy
 5. Stick with shards of the crystal from Gatshadow
 6. One from the ridge where the Bargust attacked
-7. One from the grove where we met Zantho
-8. One from outside Pyrhus’s home
-9. One from the temple where I worked for a summer
-10. One from Silvercut Crossroads, burned and used to mark the raven queen above a grave
-11. One with a crystal from the Myconids cave from tree on underground wall
-12. One from the bramble outside of Urial's home 
-13. One from the tree upon the roots of which Aei’Tu’s body fell
-14. One from the undisturbed island on the voyage to vasselheim at Vivvie’s Rest
-15. One from the Birthheart in Vasslhime
-16. One from Thorn’s barn scorched with acid
-17. One from the crashed remains of Whitestone's honor 
-18. One from the top of the storm giant's mountain where we brought back Daren the Stone Herder
-19. One from the grove where we rested before Aie'Tu's final betrayal
-20. One from something on the observatory tower where we killed the Nagpa 
+7. One from the bush outside Deliverance's home in Joren's Village
+8. One from the grove where we met Zantho
+9. One from outside Pyrhus’s home
+10. One from the temple where I worked for a summer
+11. One from Silvercut Crossroads, burned and used to mark the raven queen above a grave
+12. One with a crystal from the Myconids cave from tree on underground wall
+13. One from the bramble outside of Urial's home 
+14. One from the tree upon the roots of which Aei’Tu’s body fell
+15. One from the undisturbed island on the voyage to vasselheim at Vivvie’s Rest
+16. One from the Birthheart in Vasslhime
+17. One from Thorn’s barn scorched with acid
+18. One from the crashed remains of Whitestone's honor 
+19. One from the top of the storm giant's mountain where we brought back Daren the Stone Herder
+20. One from the grove where we rested before Aie'Tu's final betrayal
+21. One from something on the observatory tower where we killed the Nagpa 
 
 ## Location Notes
 
