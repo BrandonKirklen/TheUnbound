@@ -215,7 +215,7 @@ Tomis split to a small, run-down **shrine to the Matron of Ravens** in Whiteston
 ### Teleport to Niirdal-Poc (cliffhanger)
 
 - Grimbold cast Teleport, then a Teleportation Circle to **Niirdal-Poc** — his distant homeland on the **Rift and Mist Peninsula**, a wholly different culture from Tal'Dorei (different languages, peoples, and adobe-and-earth architecture rather than Whitestone's hewn stone).
-- The circle deposits them in a dimly-lit academy building in the district of **Nerdle Teek**. A **dark, bronze-skinned guard** in light garb, wielding an odd long polearm, lowers it and speaks — in a language only **Grimbold** understands — **"Who are you?"**
+- The circle deposits them in a dimly-lit academy building in the district of **Niirdal-Teek**. A **dark, bronze-skinned guard** in light garb, wielding an odd long polearm, lowers it and speaks — in a language only **Grimbold** understands — **"Who are you?"**
 - **Session ends there.** *(Uriel's player left just before the teleport; the party steps into Niirdal-Poc proper next session.)*
 
 ---
@@ -244,7 +244,7 @@ Tomis split to a small, run-down **shrine to the Matron of Ravens** in Whiteston
 - Where are the **other two trammel thirds** — and will the enemy come for the third now in Whitestone's vault?
 - Is the Vasselheim assault a **feint aimed at Lieve'tel** and the Cobalt vault's book (Freya's gambit theory: sneak in, take the book, use the trammels to banish the Matron)?
 - How far is **Rowan's** faith drifting from his **Arcana Pansophical** oath?
-- Who is the **bronze-skinned guard** in Nerdle Teek, and what does Grimbold's homecoming hold?
+- Who is the **bronze-skinned guard** in Niirdal-Teek, and what does Grimbold's homecoming hold?
 
 ### Bag of Holding
 
