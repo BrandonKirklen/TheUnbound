@@ -14,7 +14,7 @@ At the homecoming party in Niirdal-Poc, Tomis heard Dugan mention a half-elf nam
 
 After the party, rather than teleporting straight into Vasselheim again, the Unbound teleported to the base of the city and made the customary pilgrimage up the **Thousand Steps**. The city was on full war footing against the two flying cities bearing down on it, and the remains of the **Titan** that Vecna once brought here were being torn apart, out of fear of what the new death god might do with them. What that means for the Matron of Ravens, whose hiding place it once was, went unasked.
 
-Grimbold then cast **Demiplane** inside the **Raven's Crest Temple** to prepare Glyphs of Warding. Two **Adjudicators** found the party almost at once. Rowan kept it from becoming a fight and Grimbold went with them, until he tried to slip away and was beaten into paralysis. **Grimcold** spent his only Teleport to pull them both out to the base of the Thousand Steps. The rest of the party watched the two of them shimmer and vanish, and the Adjudicators turned to look at them.
+Grimbold then cast **Demiplane** inside the **Raven's Crest Temple** to prepare Glyphs of Warding. Two **Judicators** found the party almost at once. Rowan kept it from becoming a fight and Grimbold went with them, until he tried to slip away and was beaten into paralysis. **Grimcold** spent his only Teleport to pull them both out to the base of the Thousand Steps. The rest of the party watched the two of them shimmer and vanish, and the Judicators turned to look at them.
 
 ---
 
@@ -22,19 +22,19 @@ Grimbold then cast **Demiplane** inside the **Raven's Crest Temple** to prepare 
 
 #### The Arrest
 
-- The Adjudicators made clear, with no insight check needed, that they intended to take the rest of the party in.
+- The Judicators made clear, with no insight check needed, that they intended to take the rest of the party in.
   - Rowan put his hands up: "I'll go willingly."
   - Uriel judged anything but compliance pointless. Tomis didn't want to provoke them further.
 - They stripped everything overtly magical from the party: Rowan's light armor (from the Seelie Court) and rings, and Tomis's gear, **including his horseshoes**. They are magical and came off without a blacksmith.
 - Tomis tried to calm them: "Sure, sure, calm down, guys. We will go with you, there's no need for this." (Persuasion at disadvantage, DC 30.) They didn't respond, and said very little throughout.
-- Tomis called loudly for help. Insight (19): every priest and lower cleric who saw what was happening showed real fear. Adjudicators are deployed only in the most severe circumstances. Most people know them from legend, and nobody stayed to watch.
+- Tomis called loudly for help. Insight (19): every priest and lower cleric who saw what was happening showed real fear. Judicators are deployed only in the most severe circumstances. Most people know them from legend, and nobody stayed to watch.
 - Each prisoner was fitted with a non-magical, strapped-on **muzzle** that blocked verbal components. As they went to muzzle him, Rowan said:
 
 > Rowan: "There's no need for that. You have our vow that we will not try anything."
 
 - Persuasion at disadvantage, DC 30: a natural 1.
 - Freya, at DC 25 with disadvantage: "I ain't no fucking arcanist!" It failed. The party had burned all goodwill with these two.
-- While one Adjudicator processed the party, the other cast a **divination ritual** over the runes left by the teleport, tracing where Grimbold and Grimcold had gone.
+- While one Judicator processed the party, the other cast a **divination ritual** over the runes left by the teleport, tracing where Grimbold and Grimcold had gone.
 - The party's telepathic bond wasn't active, so they couldn't talk privately. Before the muzzles went on, Rowan said: "Time to go to jail, I suppose. I'll wait a few, maybe a few decades. They'll release me eventually." He was openly penitent, aware of how close this came to one of his own vows.
 - Freya: "You know, this was not my first time getting arrested right before an enemy attacked. They let you go if you tell them enough that you're gonna fight for them instead. Enemy of my enemy."
 - Rowan used his mental link to tell **Juniper** to lie low at the Raven's Crest.
@@ -43,7 +43,7 @@ Grimbold then cast **Demiplane** inside the **Raven's Crest Temple** to prepare 
 
 - The party was shackled in a chain gang, Tomis's four legs included, and marched slowly uphill. The whole procession took about 45 minutes.
 - In the streets, people didn't gawk. They ducked into buildings and turned on their heels. Among the soldiers drilling on every terrace up to the **Platinum Sanctuary** there was open hostility, since anyone brought in like this must be a bad actor, a day before those soldiers expected to fight for their lives.
-- Vasselheim's rules on arcane magic are draconian, but people get away with small castings. There is so much superstition about what the Adjudicators can perceive that no one wants to cross them.
+- Vasselheim's rules on arcane magic are draconian, but people get away with small castings. There is so much superstition about what the Judicators can perceive that no one wants to cross them.
 - The crash site of **Whitestone's Honor** has been fully cleaned up.
 - Uriel spotted **Belithos** drilling a regiment. He clocked what was happening, handed off his soldiers, and headed up another stairway.
 - The war room was in session, its doors open and loud arguing audible. The party was led away from the ornate guest areas into the plain military wing, then into a holding area under an **antimagic field**. Everyone but Freya felt their connection to the Weave or the divine go quiet.
@@ -56,11 +56,11 @@ Grimbold then cast **Demiplane** inside the **Raven's Crest Temple** to prepare 
 - Before the rest finished, Grimcold tapped his shoulder. Two regular city guards had come out of the tavern, someone was pointing down the path after him, and they started walking his way.
 - Grimbold cast **Fly** on both of them, skimmed the canopy for about a mile (Stealth 15 and 9), and ritually cast **Phantom Steed** over 11 minutes. He rode the road for two miles, then turned off into the woods and rode for about an hour. Survival 12 meant scraped legs and less than top speed.
 - He had no way to reach the party. He hadn't prepared Sending, and he and Grimcold hadn't used the crown to set up a telepathic bond with the others. He planned to wait for dark and sneak back toward the city (Survival to time it well), and took another short rest while keeping watch (Perception 6).
-- About an hour and a half later, a large winged serpent came down into his clearing with an **Adjudicator** on its back. The rider looked straight at his hiding spot.
+- About an hour and a half later, a large winged serpent came down into his clearing with an **Judicator** on its back. The rider looked straight at his hiding spot.
 
 > Grimbold: "Hey, we're outside your jurisdiction, buddy. You better stop right there."
 >
-> Adjudicator: "My jurisdiction is boundless."
+> Judicator: "My jurisdiction is boundless."
 
 - Grimbold cast Fly on himself and Grimcold again, but the mount was faster. A telepathic voice, not the rider's, said: "Cease your flight."
 - Grimbold: "Hey, you have one chance to land yourself, buddy, or I'm gonna ground you." The course didn't change.
@@ -192,7 +192,7 @@ Grimbold then cast **Demiplane** inside the **Raven's Crest Temple** to prepare 
 
 #### The Morning
 
-- In Whitestone, Grimbold prepared spells, then used a 4th-level slot to send Rowan a letter by magical courier: was it safe to teleport back for the battle without being attacked by Adjudicators? The courier spell can't carry a reply. Rowan, meditating at the Gilded Griffin, decided it wasn't worth waking Tomis. Grimbold ate breakfast with the castle staff and spent a couple of hours scribing spells.
+- In Whitestone, Grimbold prepared spells, then used a 4th-level slot to send Rowan a letter by magical courier: was it safe to teleport back for the battle without being attacked by Judicators? The courier spell can't carry a reply. Rowan, meditating at the Gilded Griffin, decided it wasn't worth waking Tomis. Grimbold ate breakfast with the castle staff and spent a couple of hours scribing spells.
 - The party slept late. Rowan woke Tomis with the letter.
 - The debate:
   - Freya was sure Grimbold would be arrested if he came back. Rowan doubted the city would spare forces for it with an attack hours away.
@@ -230,7 +230,7 @@ Grimbold then cast **Demiplane** inside the **Raven's Crest Temple** to prepare 
 - **Vaelora**: elderly human woman, formerly a Sister of the Matron of Ravens' order, served at the Raven's Crest before Lieve'tel became Dawn Marshal. Jailed for "nothing."
 - **Korath**: long-held prisoner who prophesies "the bell beneath the world" and claims to have seen the world unmade countless times.
 - **Unnamed third prisoner**: heard breathing, never spoke.
-- **The couatl rider**: an Adjudicator mounted on a couatl, whose gauntlet blast brands its target.
+- **The couatl rider**: an Judicator mounted on a couatl, whose gauntlet blast brands its target.
 
 ### Open Questions
 

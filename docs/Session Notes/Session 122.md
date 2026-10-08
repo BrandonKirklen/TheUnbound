@@ -97,9 +97,9 @@ The session's most unsettling thread. Overhearing Dugan and Grimbold's catch-up,
 
 The party subtly cast Demiplane at the threshold of Grimbold's chambers in the **Raven's Crest Temple** — casting an **8th-level arcane spell inside a temple of a prime deity, during a citywide war footing**, was detected almost immediately.
 
-- Two **Adjudicators** — Vasselheim's homemade answer to Inevitables, black-armored, featureless bronze-masked constructs built by the high clerics/Dawn Marshals specifically to police this kind of infraction — forced the demiplane door open within minutes of Tomis and Grimbold starting to cast.
-- Grimbold tried to bluff his way out ("this is a totally approved business... approved by Thomas") and rolled a **natural 1** on Deception (already at disadvantage). One Adjudicator seized him bodily; Rowan arrived and tried to smooth things over, apologizing and vouching for the party's ties to Lieve'tel, at a Persuasion check set at disadvantage (DC 25 just to avoid a fight, DC 30 to actually preserve relations).
-- Grimbold let himself be carried out without resistance — until, ~25 feet from the door, he tried a subtle **Misty Step** back into the demiplane. **Both Adjudicators had Mage Slayer** and got reactions, landing all three power-strike attacks (37, then 86 more). His warding broke and a failed Constitution save (rolled 19 — still short) left him **paralyzed**, one turn from being beaten unconscious.
+- Two **Judicators** — Vasselheim's homemade answer to Inevitables, black-armored, featureless bronze-masked constructs built by the high clerics/Dawn Marshals specifically to police this kind of infraction — forced the demiplane door open within minutes of Tomis and Grimbold starting to cast.
+- Grimbold tried to bluff his way out ("this is a totally approved business... approved by Thomas") and rolled a **natural 1** on Deception (already at disadvantage). One Judicator seized him bodily; Rowan arrived and tried to smooth things over, apologizing and vouching for the party's ties to Lieve'tel, at a Persuasion check set at disadvantage (DC 25 just to avoid a fight, DC 30 to actually preserve relations).
+- Grimbold let himself be carried out without resistance — until, ~25 feet from the door, he tried a subtle **Misty Step** back into the demiplane. **Both Judicators had Mage Slayer** and got reactions, landing all three power-strike attacks (37, then 86 more). His warding broke and a failed Constitution save (rolled 19 — still short) left him **paralyzed**, one turn from being beaten unconscious.
 - With no one else willing to escalate into open combat against the city's own defenders, **Grimcold acted** — grabbed Grimbold and cast **Teleport**, successfully pulling them both out to the same farmland outside Vasselheim's walls. Grimbold and Grimcold vanished from the confrontation.
 
 **The session ended here.**
@@ -111,7 +111,7 @@ The party subtly cast Demiplane at the threshold of Grimbold's chambers in the *
 ### Items Recovered / Acquired
 
 - Scrolls: **Invisibility, Earthbind, 2× Vortex Warp, Knock, 2× Pyrotechnics, Remove Curse** (3rd level, held by Tomis).
-- Lost this session: all prepared **Glyphs of Warding** — Grimbold couldn't get back into the demiplane before its 1-hour door window closed, so none of the pre-staged battle buffs survived the Adjudicator confrontation.
+- Lost this session: all prepared **Glyphs of Warding** — Grimbold couldn't get back into the demiplane before its 1-hour door window closed, so none of the pre-staged battle buffs survived the Judicator confrontation.
 
 ### Plan Going Forward
 
@@ -130,4 +130,4 @@ The party subtly cast Demiplane at the threshold of Grimbold's chambers in the *
 - Who — or what — is masquerading as **Leona** alongside Aei'Tu, given Leona is confirmed dead and the party's memories are (per the Matron) untampered?
 - Where did Grimbold's mother Jody go with Sethu, and was she really looking for him?
 - What state will Grimbold and Grimcold be in when the party reunites with them? (The DM has teased: singed hair, torn clothes, days appear to have passed for them by the time they're found.)
-- How will Vasselheim's Dawn Marshals/Adjudicators regard the party going forward, after an unauthorized 8th-level casting inside the Raven's Crest Temple turned into an open scuffle?
+- How will Vasselheim's Dawn Marshals/Judicators regard the party going forward, after an unauthorized 8th-level casting inside the Raven's Crest Temple turned into an open scuffle?
