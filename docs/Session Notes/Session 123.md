@@ -132,7 +132,7 @@ Grimbold then cast **Demiplane** inside the **Raven's Crest Temple** to prepare 
 
 > Vaelora: "And those you bring back, do you think them whole?"
 >
-> Tomis: "First one definitely is not. Not very happy with me. Keeps fucking up my life. Uriel seems well here, at least. A little less whole, though. I feel like it's often just that I have more use of them, and so I still need them here. Pretty selfish."
+> Tomis: "First one [Aei'Tu] definitely is not. Not very happy with me. Keeps fucking up my life. Uriel seems well here, at least. A little less whole, though. I feel like it's often just that I have more use of them, and so I still need them here. Pretty selfish."
 
 - Freya said coming back leaves you mostly intact, but "you kind of lose a bit of yourself every time." Vaelora: "Well, perhaps you've never truly done it before." Tomis blurted out that Freya has the **glyphs of Asmodeus** inscribed on her back, which may be keeping her from ever truly dying.
 - Tomis asked whether Vaelora knew of the **Dusters**. She didn't. He told her of the Inevitable that had masqueraded as one, seeking the one final death. Vaelora: "I imagine his search came up empty-handed." Tomis: "I think it was four-handed, actually." Freya: "This search was pretty successful, actually."
